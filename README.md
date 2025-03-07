@@ -14,7 +14,7 @@ Listas de exercícios referente ao curso de Python realizado pela entidade estud
           
 </div>
 
-![NPM](https://img.shields.io/npm/l/react)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/rodrigo-sza-almeida/curso-python-feadev-2024/blob/main/LICENSE)
 
 
 ### Conceitos aprendidos no curso separados por listas:
@@ -23,79 +23,110 @@ Listas de exercícios referente ao curso de Python realizado pela entidade estud
 
 #### Conceitos básicos e operações com string 
 
-(x) Tipos de dados fundamentais
-- (x) Operações numéricas
-- (x) Operações com "string"
-- (x) Inputs e Outputs
+☑️ Tipos de dados fundamentais
+
+☑️ Operações numéricas
+
+☑️ Operações com "string"
+
+☑️ Inputs e Outputs
 
 ### 📔 Lista 2
 
 #### Loops (While) + Condicionais:
 
-- (x) Compreender a importância das condicionais para a programação
-- (x) Entender como funcionam as condicionais
-- (x) Operadores aritméticos (+ ; - ; * ; / ; // ; % ; **)
-- (x) Operadores de comparação (> ; >= ; == ; !=)
-- (x) Operadores lógicos (and, or, not)
-- (x) Operadores dde associação (in, not in)
-- (x) Operadores de identidade (is, is not)
-- (x) if, elif, else
+☑️ Compreender a importância das condicionais para a programação
+
+☑️ Entender como funcionam as condicionais
+
+☑️ Operadores aritméticos (+ ; - ; * ; / ; // ; % ; **)
+
+☑️ Operadores de comparação (> ; >= ; == ; !=)
+
+☑️ Operadores lógicos (and, or, not)
+
+☑️ Operadores dde associação (in, not in)
+
+☑️ Operadores de identidade (is, is not)
+
+☑️ if, elif, else
 
 ### 📔 Lista 3
 
 #### Estruturas de dados em Python
 
-- (x) Listas: para adicionar, remover ou mudar itens, super flexíveis!
-- (x) Tuplas: para guardar dados que não mudam (tipo categorias fixas).
-- (x) Sets: para garantir que não temos itens duplicados.
-- (x) Dicionários: para associar um item ao seu valor, como produto e quantidade.
+☑️ Listas: para adicionar, remover ou mudar itens, super flexíveis!
+
+☑️ Tuplas: para guardar dados que não mudam (tipo categorias fixas).
+
+☑️ Sets: para garantir que não temos itens duplicados.
+
+☑️ Dicionários: para associar um item ao seu valor, como produto e quantidade.
 
 ### 📔 Lista 4
 
 #### Função
 
-- (x) Função com args
-- (x) Função com kwargs
-- (x) Lambda
+☑️ Função com args
+
+☑️ Função com kwargs
+
+☑️ Lambda
 
 ### 📔 Lista 5
 
 #### Introdução às Bibliotecas Python e Numpy
 
-- (x) A importância e a funcionalidade das bibliotecas em Python.
-- (x) A diferença entre atributos e métodos em bibliotecas.
-- (x) Como utilizar a biblioteca Numpy (Numerical Python) para manipulação e operações eficientes com arrays e matrizes numéricas.
+☑️ A importância e a funcionalidade das bibliotecas em Python.
+
+☑️ A diferença entre atributos e métodos em bibliotecas.
+
+☑️ Como utilizar a biblioteca Numpy (Numerical Python) para manipulação e operações eficientes com arrays e matrizes numéricas.
 
 ### 📔 Lista 6
 
 #### Biblioteca Pandas
 
-- (x) Instalando e importando a biblioteca
-- (x) Entendendo Series e DataFrame
-- (x) Leitura, visualização e tratamento de dados
-- (x) Operações matemáticas com DataFrames
+☑️ Instalando e importando a biblioteca
+
+☑️ Entendendo Series e DataFrame
+
+☑️ Leitura, visualização e tratamento de dados
+
+☑️ Operações matemáticas com DataFrames
 
 ### 📔 Lista 7
 
 #### Utilizando o Pandas
 
-- (x) Loc e Iloc
-- (x) Funções no Pandas
-- (x) Trabalhando com strings e datas no pandas
-- (x) Merge
-- (x) Agrupamento dos dados
-- (x) Diff e Pct Change
+☑️ Loc e Iloc
+
+☑️ Funções no Pandas
+
+☑️ Trabalhando com strings e datas no pandas
+
+☑️ Merge
+
+☑️ Agrupamento dos dados
+
+☑️ Diff e Pct Change
 
 ### 📔 Lista 8
 
 #### Visualização de Dados com Python
 
-- (x) Por que aprender a visualizar dados em python é importante?
-- (x) Ferramentas que iremos utilizar
-- (x) Conhecendo os principais tipos de gráfico com matplotlib
-- (x) Dicas Biblioteca Matplotlib
-- (x) Conhecendo os principais tipos de gráfico com seaborn
-- (x) Dicas Biblioteca Seaborn
-- (x) Salvando o gráfico em png e pdf
+☑️ Por que aprender a visualizar dados em python é importante?
 
-Link da Playlist das aulas no canal do Youtube da FEA.Dev: https://www.youtube.com/watch?v=FpeQkI-gg8I&list=PLiJqHBsOKi2dINDE1pQ9FlAEiqBB8r-BG# 📓 Listas de exercícios do curso de Python da FEA.dev - USP
+☑️ Ferramentas que iremos utilizar
+
+☑️ Conhecendo os principais tipos de gráfico com matplotlib
+
+☑️ Dicas Biblioteca Matplotlib
+
+☑️ Conhecendo os principais tipos de gráfico com seaborn
+
+☑️ Dicas Biblioteca Seaborn
+
+☑️ Salvando o gráfico em png e pdf
+
+Link da Playlist das aulas no canal do Youtube da FEA.Dev: https://www.youtube.com/watch?v=FpeQkI-gg8I&list=PLiJqHBsOKi2dINDE1pQ9FlAEiqBB8r-BG#
